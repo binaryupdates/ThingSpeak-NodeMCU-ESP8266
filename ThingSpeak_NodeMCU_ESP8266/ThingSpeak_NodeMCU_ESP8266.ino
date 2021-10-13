@@ -2,8 +2,8 @@
 #include <WiFiClient.h>;
 #include <ThingSpeak.h>;
 
-const char* ssid = "binaryupdates.com";         // Your Network SSID
-const char* password = "@visitus@";     // Your Network Password
+const char* ssid = "binaryupdates.com";   // Your Network SSID
+const char* password = "@visitus@";       // Your Network Password
 
 int val;
 int pin = A0; //LM53 Pin Connected at A0 Pin
