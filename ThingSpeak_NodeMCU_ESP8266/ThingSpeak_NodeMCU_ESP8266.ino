@@ -6,7 +6,7 @@ const char* ssid = "binaryupdates.com";   // Your Network SSID
 const char* password = "@visitus@";       // Your Network Password
 
 int val;
-int pin = A0; //LM35 Pin Connected at A0 Pin
+int pin = A0; // LM35 Pin Connected at A0 Pin
 
 WiFiClient client;
 
